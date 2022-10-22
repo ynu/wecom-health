@@ -1,0 +1,25 @@
+{
+  "name": "wecom-health",
+  "version": "1.0.0",
+  "description": "企业微信API-健康上报 SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynu/wecom-health.git"
+  },
+  "author": "na57",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ynu/wecom-health/issues"
+  },
+  "homepage": "https://github.com/ynu/wecom-health#readme",
+  "dependencies": {
+    "dayjs": "^1.11.6",
+    "debug": "^4.3.4",
+    "node-fetch": "^2.6.7",
+    "wecom-common": "^1.1.0"
+  }
+}
